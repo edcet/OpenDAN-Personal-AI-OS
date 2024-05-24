@@ -4,9 +4,9 @@ jsonschema==4.17.3
 python-socketio==5.8.0
 
 uvicorn==0.22.0
-fastapi==0.95.1
+fastapi==0.109.1
 python-dotenv==1.0.0
-llama-index==0.6.7
+llama-index==0.10.13
 youtube-transcript-api==0.6.0
 tweepy==4.14.0
 rembg==2.0.45
